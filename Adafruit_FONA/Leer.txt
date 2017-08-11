@@ -1,0 +1,1 @@
+Adafruit_FONA.cpp y Adafruit_FONA.h han sido modificadas por ImagineXYZ para su uso personal. Es posible que algunos métodos no funcionen correctamente
